@@ -1,0 +1,6 @@
+C:\temp\MainSetupProject\MainSetupProject\bin\Debug\en-us\MainSetupProject.msi
+C:\temp\MainSetupProject\MainSetupProject\bin\Debug\en-us\MainSetupProject.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\MainSetupProject.wixproj.BindContentsFileListen-us.txt
+obj\Debug\MainSetupProject.wixproj.BindOutputsFileListen-us.txt
+obj\Debug\MainSetupProject.wixproj.BindBuiltOutputsFileListen-us.txt

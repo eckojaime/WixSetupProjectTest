@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "MainSetupProject", "MainSetupProject.wixproj", "{91EFB700-A317-4ACF-A2FA-55E5B2729126}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "SetupLibrary", "..\SetupLibrary\SetupLibrary.wixproj", "{38813B3B-3601-4521-ABE2-D337BA2CAC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91EFB700-A317-4ACF-A2FA-55E5B2729126}.Debug|x86.ActiveCfg = Debug|x86
+		{91EFB700-A317-4ACF-A2FA-55E5B2729126}.Debug|x86.Build.0 = Debug|x86
+		{91EFB700-A317-4ACF-A2FA-55E5B2729126}.Release|x86.ActiveCfg = Release|x86
+		{91EFB700-A317-4ACF-A2FA-55E5B2729126}.Release|x86.Build.0 = Release|x86
+		{38813B3B-3601-4521-ABE2-D337BA2CAC75}.Debug|x86.ActiveCfg = Debug|x86
+		{38813B3B-3601-4521-ABE2-D337BA2CAC75}.Debug|x86.Build.0 = Debug|x86
+		{38813B3B-3601-4521-ABE2-D337BA2CAC75}.Release|x86.ActiveCfg = Release|x86
+		{38813B3B-3601-4521-ABE2-D337BA2CAC75}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+obj\Debug\WixUI_DatabaseNameDlg.wixobj
+obj\Debug\WixUI_SimpleWebAppInstall.wixobj

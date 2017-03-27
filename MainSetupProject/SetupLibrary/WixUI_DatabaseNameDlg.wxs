@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Fragment>
+    <UI Id="DatabaseNameDlg">
+      <Dialog Id="DatabaseNameDlg" Width="370" Height="270" Title="A Simple Database Screen" NoMinimize="yes">
+        <Control Id="DatabaseStringLabel" Type="Text" X="45" Y="73" Width="220" Height="15" TabSkip="no" Text="!(loc.SelectDB)" />
+        <Control Type="ComboBox" Property="DATABASE_NAME" Id="DatabaseCombo"
+                 Width="220" Height="16" X="45" Y="90"
+                 ComboList="yes" Sorted="yes" />        
+      </Dialog>
+    </UI>
+  </Fragment>
+</Wix>
